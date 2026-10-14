@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">رقم سريع</string>
+    <string name="accessibility_desc">يسمح لتطبيق رقم سريع بقراءة النص الظاهر على الشاشة لنسخ الأرقام والنصوص وترجمتها عند الضغط على زر بكسبي.</string>
+</resources>
